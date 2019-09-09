@@ -6,7 +6,7 @@ class Navigation extends Component {
               <a href="https://github.com" className="text-white">
                     {this.props.titulo}
                     <span className="badge badge-pill badge-light ml-2">
-                            {this.props.ntareas}
+                       {this.props.ntareas}
                     </span>
                </a>
             </nav>
