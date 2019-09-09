@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.023ef077.chunk.css",
-    "main.js": "/static/js/main.8f8d428c.chunk.js",
-    "main.js.map": "/static/js/main.8f8d428c.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.9ae4ea14.js",
-    "runtime~main.js.map": "/static/js/runtime~main.9ae4ea14.js.map",
-    "static/js/2.1430f7f0.chunk.js": "/static/js/2.1430f7f0.chunk.js",
-    "static/js/2.1430f7f0.chunk.js.map": "/static/js/2.1430f7f0.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.9697cf4418ba7997bf50dcb4ff074de4.js": "/precache-manifest.9697cf4418ba7997bf50dcb4ff074de4.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.023ef077.chunk.css.map": "/static/css/main.023ef077.chunk.css.map",
-    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg"
+    "main.css": "/ReactTaskApp/static/css/main.023ef077.chunk.css",
+    "main.js": "/ReactTaskApp/static/js/main.c8d321b4.chunk.js",
+    "main.js.map": "/ReactTaskApp/static/js/main.c8d321b4.chunk.js.map",
+    "runtime~main.js": "/ReactTaskApp/static/js/runtime~main.7c20b601.js",
+    "runtime~main.js.map": "/ReactTaskApp/static/js/runtime~main.7c20b601.js.map",
+    "static/js/2.1430f7f0.chunk.js": "/ReactTaskApp/static/js/2.1430f7f0.chunk.js",
+    "static/js/2.1430f7f0.chunk.js.map": "/ReactTaskApp/static/js/2.1430f7f0.chunk.js.map",
+    "index.html": "/ReactTaskApp/index.html",
+    "precache-manifest.eab0c5d613948c5144b8bf5e2a05560b.js": "/ReactTaskApp/precache-manifest.eab0c5d613948c5144b8bf5e2a05560b.js",
+    "service-worker.js": "/ReactTaskApp/service-worker.js",
+    "static/css/main.023ef077.chunk.css.map": "/ReactTaskApp/static/css/main.023ef077.chunk.css.map",
+    "static/media/logo.svg": "/ReactTaskApp/static/media/logo.5d5d9eef.svg"
   }
 }
